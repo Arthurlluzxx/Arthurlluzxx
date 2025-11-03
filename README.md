@@ -7,6 +7,7 @@ Meu nome é Arthur Luz de Oliveira, tenho 19 anos e sou natural de São Paulo, B
 Tenho grande interesse pela área de tecnologia e desenvolvimento de software, com foco na criação de soluções eficientes e bem estruturadas. Busco constantemente aprimorar meus conhecimentos e aplicar boas práticas de programação em meus projetos.
 
 Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências na área de desenvolvimento, demonstrando minha evolução técnica e profissional.
+
 [![Email](https://img.shields.io/badge/Email-arthurluzdeoliveira6%40gmail.com-red)](mailto:arthurluzdeoliveira6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurluzdeoliveira-0077B5)](https://www.linkedin.com/in/arthurluzdeoliveira)
 ---
