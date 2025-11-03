@@ -8,7 +8,7 @@ Tenho grande interesse pela área de tecnologia e desenvolvimento de software, c
 
 Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências na área de desenvolvimento, demonstrando minha evolução técnica e profissional.
 [![Email](https://img.shields.io/badge/Email-arthurluzdeoliveira6%40gmail.com-red)](mailto:arthurluzdeoliveira6@gmail.com)
-[![Email](https://img.shields.io/badge/LinkedIn-arthurluzdeoliveira-blue)](www.linkedin.com/in/arthurluzdeoliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurluzdeoliveira-0077B5)](https://www.linkedin.com/in/arthurluzdeoliveira)
 ---
 
 ### 🤖 Linguagens e Tecnologias
