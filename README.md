@@ -8,18 +8,18 @@ Tenho grande interesse pela área de tecnologia e desenvolvimento de software, c
 
 Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências na área de desenvolvimento, demonstrando minha evolução técnica e profissional.
 <a href="mailto:arthurluzdeoliveira6@gmail.com">
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="20" role="img" aria-label="Email">
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="20" role="img" aria-label="Email">
 <title>Email</title>
 <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/>
 </linearGradient>
-<clipPath id="r"><rect width="150" height="20" rx="3" fill="#fff"/></clipPath>
-<g clip-path="url(#r)"><rect width="0" height="20" fill="#555"/><rect x="0" width="150" height="20" fill="#e61b23"/><rect width="150" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+<clipPath id="r"><rect width="250" height="20" rx="3" fill="#fff"/></clipPath>
+<g clip-path="url(#r)"><rect width="0" height="20" fill="#555"/><rect x="0" width="250" height="20" fill="#e61b23"/><rect width="250" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
 <image x="5" y="3" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlc21va2UiIHZlcnNpb249IjEuMSIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIGNsYXNzPSJvY3RpY29uIG9jdGljb24tbWFpbCIgYXJpYS1oaWRkZW49InRydWUiPjxwYXRoIGQ9Ik0xLjc1IDJoMTIuNWMuOTY2IDAgMS43NS43ODQgMS43NSAxLjc1djguNUExLjc1IDEuNzUgMCAwIDEgMTQuMjUgMTRIMS43NUExLjc1IDEuNzUgMCAwIDEgMCAxMi4yNXYtOC41QzAgMi43ODQuNzg0IDIgMS43NSAyWk0xLjUgMTIuMjUxYzAgLjEzOC4xMTIuMjUuMjUuMjVoMTIuNWEuMjUuMjUgMCAwIDAgLjI1LS4yNVY1LjgwOUw4LjM4IDkuMzk3YS43NS43NSAwIDAgMS0uNzYgMEwxLjUgNS44MDl2Ni40NDJabTEzLTguMTgxdi0uMzJhLjI1LjI1IDAgMCAwLS4yNS0uMjVIMS43NWEuMjUuMjUgMCAwIDAtLjI1LjI1di4zMkw4IDcuODhaIj48L3BhdGg+PC9zdmc+"/>
-<text aria-hidden="true" x="335" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1000">arthurluzdeoliveira6@gmail.com</text>
-<text x="335" y="140" transform="scale(.1)" fill="#fff" textLength="1000">arthurluzdeoliveira6@gmail.com</text>
+<text aria-hidden="true" x="1250" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1600">arthurluzdeoliveira6@gmail.com</text>
+<text x="1250" y="140" transform="scale(.1)" fill="#fff" textLength="1600">arthurluzdeoliveira6@gmail.com</text>
 </g>
 </svg>
-</a>  
+</a> 
 ---
 
 ### 🤖 Linguagens e Tecnologias
