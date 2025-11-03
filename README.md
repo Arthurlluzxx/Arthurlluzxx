@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Luz de Oliveira, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Senac Nações Unidas, com o curso técnico em informática. Atualmente, estou cursando Bacharelado de Sistemas de Informação no Senac. Sou apaixonado por tecnologia e compartilho meu apredizado por meio desse GitHub.
+Meu nome é Arthur Luz de Oliveira, tenho 19 anos e sou natural de São Paulo, Brasil. Sou formado em Técnico em Informática pelo Senac Nações Unidas e atualmente curso o Bacharelado em Sistemas de Informação na mesma instituição.
+
+Tenho grande interesse pela área de tecnologia e desenvolvimento de software, com foco na criação de soluções eficientes e bem estruturadas. Busco constantemente aprimorar meus conhecimentos e aplicar boas práticas de programação em meus projetos.
+
+Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências na área de desenvolvimento, demonstrando minha evolução técnica e profissional.
 
 ---
 
