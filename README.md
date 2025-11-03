@@ -7,7 +7,7 @@ Meu nome é Arthur Luz de Oliveira, tenho 19 anos e sou natural de São Paulo, B
 Tenho grande interesse pela área de tecnologia e desenvolvimento de software, com foco na criação de soluções eficientes e bem estruturadas. Busco constantemente aprimorar meus conhecimentos e aplicar boas práticas de programação em meus projetos.
 
 Este repositório tem como objetivo compartilhar meus estudos, projetos e experiências na área de desenvolvimento, demonstrando minha evolução técnica e profissional.
-
+<a href="mailto:arthurluzdeoliveira6@gmail.com">
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="20" role="img" aria-label="Email">
 <title>Email</title>
 <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/>
@@ -19,6 +19,7 @@ Este repositório tem como objetivo compartilhar meus estudos, projetos e experi
 <text x="335" y="140" transform="scale(.1)" fill="#fff" textLength="1000">arthurluzdeoliveira6@gmail.com</text>
 </g>
 </svg>
+</a>  
 ---
 
 ### 🤖 Linguagens e Tecnologias
