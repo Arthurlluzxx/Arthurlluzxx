@@ -46,15 +46,6 @@ Me chamo Arthur Luz de Oliveira, tenho 19 anos e sou natural de São Paulo. Conc
 
 <img 
     align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node.js/node.js-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -115,15 +106,6 @@ Me chamo Arthur Luz de Oliveira, tenho 19 anos e sou natural de São Paulo. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
-/>
 <br/>
 <br/>
 
@@ -135,14 +117,14 @@ Me chamo Arthur Luz de Oliveira, tenho 19 anos e sou natural de São Paulo. Conc
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Arthurlluzxxh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlluzxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
